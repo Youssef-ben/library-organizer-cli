@@ -1,0 +1,4 @@
+exifread==3.5.1
+xxhash==3.5.0
+pyinstaller>=6.10
+ruff>=0.4
